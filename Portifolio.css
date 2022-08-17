@@ -1,0 +1,32 @@
+.formnome{font-family: Monotype Corsiva;
+          font-size: 60px;
+          color: black;
+          margin-top: 60px;
+          position: absolute;
+          margin-left: 408px;}
+.margem{margin: 0 auto;}          
+.imgfundo{background-image: url("fundo.jpg");
+          background-repeat: no-repeat;
+          position: absolute;
+          width: 1522px;
+          height: 610px;
+          opacity: 1.0;}
+.imgperfil{background-image: url("perfil.jpg");
+           background-repeat: no-repeat;
+           position: absolute;
+           width: 250px;
+           height: 250px;
+           margin-left: 642px;
+           margin-top: 68px;
+           opacity: 0.3}
+.pagfundo{background-color: rgb(70, 70, 70);}
+.centraliza{text-align: center;}
+.body {height:200px; 
+       width:1550px;}
+.formvoltar{font-family: arial;
+            font-size: 30px;
+            color: rgb(0, 255, 255);
+            font-weight: bold;
+            text-decoration: underline;}         
+         
+       
